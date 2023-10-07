@@ -9,7 +9,7 @@
 
 <!-- Socials -->
 <body>
-<div class="center" style = "display: flex; justify-content: center;">
+<div class="center" style = "display: flex; justify-content: center;" align = "center">
   <div class="badge-container" style = "margin: 0 10px;">
     <a href="https://www.linkedin.com/in/samyam-lamichhane/" target="_blank">
       <img src="https://img.shields.io/badge/-Samyam-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
@@ -50,7 +50,7 @@
 
 <!-- About Me -->
 <br>
-<div class="center" style = "display: flex; justify-content: center;">
+<div class="center" style = "display: flex; justify-content: center;" align = "center">
   <div class="image-container" style = "display: inline-block; vertical-align: middle;">
     <picture>
       <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="About me image">
@@ -130,7 +130,7 @@
 
 
 <!-- Stats -->
-<div style="text-align: center;">
+<div style="text-align: center;" align = "center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=declansam&show_icons=true&locale=en&layout=compact" alt="declansam" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=declansam&" alt="declansam" /></p>
   <p><img src="https://sjb-github-readme-stats.vercel.app/api?username=declansam&show_icons=true&count_private=true" alt="declansam" /></p>
