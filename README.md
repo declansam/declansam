@@ -61,13 +61,13 @@
 <!-- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="About me image"> -->
 
 
-<div class="badge-container welcome-text" style = "margin: 0 10px; font-size: 34px;">
-  <p align="center">Welcome to my profile!</p>
+<div class="badge-container welcome-text" style = "margin: 0 10px;">
+  <p align="center" style = "font-size: 34px">Welcome to my profile!</p>
 </div>
 
 <div class = "aboutme" style = "text-align: center; list-style: none;">
   <ul>
-    - I'm a Computer Science & Mathematics Student at NYU.  
+    - I'm a Computer Science & Mathematics Student at NYU.  <br>
     - Currently leading web development project for <a href="https://janetnjelesani.com/" target="_blank">Dr. Janet Njelesani</a> at NYU. <br>
     - I'm working on personal Deep Learning Projects in the field of Particle Physics and GANs. Reach out to me for more information. <br>
     - I'm also working on the integration of Computer Vision into a project titled <a href="https://github.com/declansam/ChaseMe-Game" target="_blank">"Chase Me"</a>. <br>
