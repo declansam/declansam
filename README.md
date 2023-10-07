@@ -4,8 +4,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave"> My name is Samyam Lamichhane</h1>
 <h3 align="center" style = "font-size: 25px;">A passionate Machine Learning practitioner and a photography enthusiast.</h3>
 
-</head>
-
 
 <!-- Socials -->
 <body>
@@ -42,10 +40,12 @@
 </div>
 
 
+
 <!-- Image -->
 <div align = "center">
-  <img src="./icons/minimal.png" alt="Samyam's Image" width = "300">
+  <img src="./assets/samyam_logo.png" alt="Samyam's Image" width = "300">
 </div>
+
 
 
 <!-- About Me -->
@@ -53,11 +53,12 @@
 <div class="center" style = "display: flex; justify-content: center;" align = "center">
   <div class="image-container" style = "display: inline-block; vertical-align: middle;">
     <picture>
-      <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="About me image">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80px" alt="About me image" style = "margin-top: 10px">
     </picture>
   </div>
-  <h2>About me</h2>
+  <h2 style = "margin-left: 10px; margin-top:23px">About me</h2>
 </div>
+<!-- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="About me image"> -->
 
 
 <div class="badge-container welcome-text" style = "margin: 0 10px; font-size: 34px;">
@@ -118,12 +119,12 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
 
 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="./icons/photoshop.png" alt="Photoshop" width="30" height="30"/></a>
-<a href="https://www.adobe.com/products/lightroom-classic.html" target="_blank" rel="noreferrer"> <img src="./icons/lightroom.png" alt="Lightroom" width="30" height="30"/></a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="./icons/premiere_pro.png" alt="Premiere Pro" width="30" height="30"/></a>
-<a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"> <img src="./icons/audition.png" alt="Audition" width="30" height="30"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="./assets/photoshop.png" alt="Photoshop" width="30" height="30"/></a>
+<a href="https://www.adobe.com/products/lightroom-classic.html" target="_blank" rel="noreferrer"> <img src="./assets/lightroom.png" alt="Lightroom" width="30" height="30"/></a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="./assets/premiere_pro.png" alt="Premiere Pro" width="30" height="30"/></a>
+<a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"> <img src="./assets/audition.png" alt="Audition" width="30" height="30"/></a>
 <a href="https://cycling74.com/products/max" target="_blank" rel="noreferrer"> <img src="https://assets.cdn.cycling74.com/web/logos/C74-dark.svg" alt="MAX" width="30" height="30"/></a>
-<a href="https://www.ableton.com/live/" target="_blank" rel="noreferrer"> <img src="./icons/ableton-live.png" alt="Ableton Live" width="30" height="30"/></a>
+<a href="https://www.ableton.com/live/" target="_blank" rel="noreferrer"> <img src="./assets/ableton-live.png" alt="Ableton Live" width="30" height="30"/></a>
 
 </div>
 
@@ -135,5 +136,4 @@
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=declansam&" alt="declansam" /></p>
   <p><img src="https://sjb-github-readme-stats.vercel.app/api?username=declansam&show_icons=true&count_private=true" alt="declansam" /></p>
 </div>
-
-
+<!-- <img src="https://i.gifer.com/7gRx.gif" width="480px" alt="About me image"> -->
