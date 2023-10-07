@@ -1,76 +1,40 @@
 
-
-
-
-<!-- CSS -->
-<style>
-
-  h3 {
-    font-size: 25px;
-  }
-
-  .aboutme {
-    text-align: center;
-    list-style: none;
-  }
-
-  .center {
-    display: flex;
-    justify-content: center;
-  }
-  .badge-container {
-    margin: 0 10px; /* Adjust the margin as needed for spacing between badges */
-  }
-
-  .image-container {
-    display: inline-block;
-    vertical-align: middle;
-  }
-
-  .welcome-text {
-    font-size: 34px;
-  }
-</style>
-
-
-
-
 <!-- Header -->
 <br> <br>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave"> My name is Samyam Lamichhane</h1>
-<h3 align="center">A passionate Machine Learning practitioner and a photography enthusiast.</h3>
+<h3 align="center" style = "font-size: 25px;">A passionate Machine Learning practitioner and a photography enthusiast.</h3>
 
 </head>
 
 
 <!-- Socials -->
 <body>
-<div class="center">
-  <div class="badge-container">
+<div class="center" style = "display: flex; justify-content: center;">
+  <div class="badge-container" style = "margin: 0 10px;">
     <a href="https://www.linkedin.com/in/samyam-lamichhane/" target="_blank">
       <img src="https://img.shields.io/badge/-Samyam-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
     </a>
   </div>
 
-  <div class="badge-container">
+  <div class="badge-container" style = "margin: 0 10px;">
     <a href="https://samyamlamichhane.com.np" target="_blank">
       <img src="https://img.shields.io/badge/-samyamlamichhane.com.np-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge">
     </a>
   </div>
 
-  <div class="badge-container">
+  <div class="badge-container" style = "margin: 0 10px;">
     <a href="https://twitter.com/sam_declan" target="_blank">
       <img src="https://img.shields.io/badge/-@__sam_declan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge">
     </a>
   </div>
 
-  <div class="badge-container">
+  <div class="badge-container" style = "margin: 0 10px;">
     <a href="https://instagram.com/declan.sam" target="_blank">
       <img src="https://img.shields.io/badge/-@__declan.sam-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
   </div>
 
-  <div class="badge-container">
+  <div class="badge-container" style = "margin: 0 10px;">
     <a href="mailto:slamichhane@nyu.edu">
       <img src="https://img.shields.io/badge/-samyam-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
     </a>
@@ -86,8 +50,8 @@
 
 <!-- About Me -->
 <br>
-<div class="center">
-  <div class="image-container">
+<div class="center" style = "display: flex; justify-content: center;">
+  <div class="image-container" style = "display: inline-block; vertical-align: middle;">
     <picture>
       <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="About me image">
     </picture>
@@ -96,11 +60,11 @@
 </div>
 
 
-<div class="badge-container welcome-text">
+<div class="badge-container welcome-text" style = "margin: 0 10px; font-size: 34px;">
   <p align="center">Welcome to my profile!</p>
 </div>
 
-<div class = "aboutme">
+<div class = "aboutme" style = "text-align: center; list-style: none;">
   <ul>
     - I'm a Computer Science & Mathematics Student at NYU.  
     - Currently leading web development project for <a href="https://janetnjelesani.com/" target="_blank">Dr. Janet Njelesani</a> at NYU. <br>
@@ -113,11 +77,11 @@
 
 <br> <br>
  <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
-<h3 align="center"> Languages & Tools</h3>
+<h3 align="center" style = "font-size: 25px;"> Languages & Tools</h3>
 
 
 <!-- Tools -->
-<div class = "badge-container" align = "center">
+<div class = "badge-container" align = "center"  style = "margin: 0 10px;">
 <p align="left"> 
 </p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
