@@ -15,20 +15,14 @@
   </div>
 
   <div class="badge-container" style = "margin: 0 10px;">
-    <a href="https://samyamlamichhane.com.np" target="_blank">
-      <img src="https://img.shields.io/badge/-samyamlamichhane.com.np-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge">
+    <a href="https://lcsamyam.com" target="_blank">
+      <img src="https://img.shields.io/badge/-lcsamyam.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge">
     </a>
   </div>
 
   <div class="badge-container" style = "margin: 0 10px;">
     <a href="https://twitter.com/sam_declan" target="_blank">
       <img src="https://img.shields.io/badge/-@__sam_declan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge">
-    </a>
-  </div>
-
-  <div class="badge-container" style = "margin: 0 10px;">
-    <a href="https://instagram.com/declan.sam" target="_blank">
-      <img src="https://img.shields.io/badge/-@__declan.sam-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
   </div>
 
