@@ -23,7 +23,9 @@
 <!-- Image -->
 <br>
 <div align = "center">
-  <img src="./assets/lcsamyam.png" alt="Samyam's Image" width = "300">
+  <a href="https://lcsamyam.com" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/lcsamyam.png" alt="Samyam's Image" width = "300">
+  </a>
 </div>
 
 
@@ -61,7 +63,7 @@
 
 <!-- Call to action for website -->
 <p align="center">
-  <a href="https://lcsamyam.com" target="_blank">
+  <a href="https://lcsamyam.com" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=500&height=60&lines=Check+out+my+website+lcsamyam.com" alt="Check out my website lcsamyam.com" />
   </a>
 </p>
