@@ -1,43 +1,30 @@
-
 <!-- Header -->
 <br> <br>
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave"> My name is Samyam Lamichhane</h1>
-<h3 align="center" style = "font-size: 25px;">A passionate Machine Learning practitioner and a photography enthusiast.</h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave" width="30"> Hi! My name is Samyam Lamichhane!</h1>
+<h3 align="center" style = "font-size: 25px;">A passionate Deep Learning practitioner and a photography enthusiast.</h3>
 
 
 <!-- Socials -->
 <body>
-<div class="center" style = "display: flex; justify-content: center;" align = "center">
-  <div class="badge-container" style = "margin: 0 10px;">
-    <a href="https://www.linkedin.com/in/samyam-lamichhane/" target="_blank">
-      <img src="https://img.shields.io/badge/-Samyam-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-    </a>
-  </div>
-
-  <div class="badge-container" style = "margin: 0 10px;">
-    <a href="https://lcsamyam.com" target="_blank">
-      <img src="https://img.shields.io/badge/-lcsamyam.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge">
-    </a>
-  </div>
-
-  <div class="badge-container" style = "margin: 0 10px;">
-    <a href="https://twitter.com/sam_declan" target="_blank">
-      <img src="https://img.shields.io/badge/-@__sam_declan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge">
-    </a>
-  </div>
-
-  <div class="badge-container" style = "margin: 0 10px;">
-    <a href="mailto:slamichhane@nyu.edu">
-      <img src="https://img.shields.io/badge/-samyam-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
-    </a>
-  </div>
+<div class="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.linkedin.com/in/samyam-lamichhane/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="30" height="30" style="margin: 0 5px; filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(200deg) brightness(100%) contrast(100%);"/>
+  </a>
+  <a href="https://lcsamyam.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/447845/website-click.svg" alt="Personal Website" title="Personal Website" width="30" height="30" style="margin: 0 5px; filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(120deg) brightness(100%) contrast(100%);"/>
+  </a>
+  <a href="https://twitter.com/sam_declan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" title="Twitter" width="30" height="30" style="margin: 0 5px; filter: invert(50%) sepia(100%) saturate(1000%) hue-rotate(180deg) brightness(100%) contrast(100%);"/>
+  </a>
+  <a href="mailto:slamichhane@nyu.edu">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" title="Email" width="30" height="30" style="margin: 0 5px; filter: invert(50%) sepia(100%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
+  </a>
 </div>
 
-
-
 <!-- Image -->
+<br>
 <div align = "center">
-  <img src="./assets/samyam_logo.png" alt="Samyam's Image" width = "300">
+  <img src="./assets/lcsamyam.png" alt="Samyam's Image" width = "300">
 </div>
 
 
@@ -52,22 +39,30 @@
   </div>
   <h2 style = "margin-left: 10px; margin-top:23px">About me</h2>
 </div>
-<!-- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="About me image"> -->
 
 
 <div class="badge-container welcome-text" style = "margin: 0 10px;">
   <p align="center" style = "font-size: 34px">Welcome to my profile!</p>
 </div>
 
-<div class = "aboutme" style = "text-align: center; list-style: none;">
+<div class = "aboutme" style = "text-align: left; list-style: none;">
   <ul>
     - I'm a Computer Science & Mathematics Student at NYU.  <br>
-    - Currently leading web development project for <a href="https://janetnjelesani.com/" target="_blank">Dr. Janet Njelesani</a> at NYU. <br>
-    - I'm working on personal Deep Learning Projects in the field of Particle Physics and GANs. Reach out to me for more information. <br>
-    - I'm also working on the integration of Computer Vision into a project titled <a href="https://github.com/declansam/ChaseMe-Game" target="_blank">"Chase Me"</a>. <br>
-    - Feel free to check my personal website <a href="https://samyamlamichhane.com.np" target="_blank">here</a>. <br>
-    - Looking for internships or research programs in Machine Learning, Data Science, Web, Software Development. <br>
+    <br>
+    - Currently, I am conducting research on Robotics & Reinforcement Learning with PAL Robotics systems using omnidirectional mobility and LiDAR perception to train mobile manipulators for precise object manipulation at <a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html" target="_blank"> Center of AI and Robotics (CAIR) </a> <br>
+    <br>
+    - I am also developing computer vision solutions with deep residual networks for soiling quantification using CNN and Transformer architectures. <br>
+    <br>
+    - I focus on research at the intersection of computer vision, reinforcement learning and multi-modal learning. <br>
+    <br>
+    - Led web development project for <a href="https://janetnjelesani.com/" target="_blank">Dr. Janet Njelesani</a> at NYU. <br>
+     - Looking for research opportunities in Machine Learning, Data Science, Vision and Embodied AI. <br>
   </ul>
+</div>
+
+<!-- Call to action for website -->
+<div align="center" style="margin-top: 15px; padding: 10px; background: linear-gradient(90deg, rgba(30,144,255,0.2) 0%, rgba(46,204,113,0.2) 100%); border-radius: 8px;">
+  <h3 style="margin: 5px 0;">For more detailed portfolio, check out my website <a href="https://lcsamyam.com" target="_blank" style="font-weight: bold; color: #2ecc71;">lcsamyam.com</a></h3>
 </div>
 
 <br> <br>
@@ -102,22 +97,23 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/33/1/express-js-logo-png_seeklogo-339850.png" alt="express" width="30" height="30"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/> </a> 
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
+
 
 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="./assets/photoshop.png" alt="Photoshop" width="30" height="30"/></a>
 <a href="https://www.adobe.com/products/lightroom-classic.html" target="_blank" rel="noreferrer"> <img src="./assets/lightroom.png" alt="Lightroom" width="30" height="30"/></a>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="./assets/premiere_pro.png" alt="Premiere Pro" width="30" height="30"/></a>
 <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"> <img src="./assets/audition.png" alt="Audition" width="30" height="30"/></a>
-<a href="https://cycling74.com/products/max" target="_blank" rel="noreferrer"> <img src="https://assets.cdn.cycling74.com/web/logos/C74-dark.svg" alt="MAX" width="30" height="30"/></a>
+<a href="https://cycling74.com/products/max" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_Max_8_software.jpg?20200224073444" alt="MAX" width="26" height="26"/></a>
 <a href="https://www.ableton.com/live/" target="_blank" rel="noreferrer"> <img src="./assets/ableton-live.png" alt="Ableton Live" width="30" height="30"/></a>
 
 </div>
