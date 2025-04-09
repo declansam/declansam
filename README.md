@@ -5,21 +5,20 @@
 
 
 <!-- Socials -->
-<body>
-<div class="center" style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <a href="https://www.linkedin.com/in/samyam-lamichhane/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="30" height="30" style="margin: 0 5px; filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(200deg) brightness(100%) contrast(100%);"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://lcsamyam.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/447845/website-click.svg" alt="Personal Website" title="Personal Website" width="30" height="30" style="margin: 0 5px; filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(120deg) brightness(100%) contrast(100%);"/>
+    <img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Personal Website" />
   </a>
   <a href="https://twitter.com/sam_declan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" title="Twitter" width="30" height="30" style="margin: 0 5px; filter: invert(50%) sepia(100%) saturate(1000%) hue-rotate(180deg) brightness(100%) contrast(100%);"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:slamichhane@nyu.edu">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" title="Email" width="30" height="30" style="margin: 0 5px; filter: invert(50%) sepia(100%) saturate(1000%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
 <!-- Image -->
 <br>
@@ -61,11 +60,13 @@
 </div>
 
 <!-- Call to action for website -->
-<div align="center" style="margin-top: 15px; padding: 10px; background: linear-gradient(90deg, rgba(30,144,255,0.2) 0%, rgba(46,204,113,0.2) 100%); border-radius: 8px;">
-  <h3 style="margin: 5px 0;">For more detailed portfolio, check out my website <a href="https://lcsamyam.com" target="_blank" style="font-weight: bold; color: #2ecc71;">lcsamyam.com</a></h3>
-</div>
+<p align="center">
+  <a href="https://lcsamyam.com" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=500&height=60&lines=Check+out+my+website+lcsamyam.com" alt="Check out my website lcsamyam.com" />
+  </a>
+</p>
 
-<br> <br>
+
  <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 <h3 align="center" style = "font-size: 25px;"> Languages & Tools</h3>
 
