@@ -45,16 +45,17 @@
 
 <div class = "aboutme" style = "text-align: left; list-style: none;">
   <ul>
-    - I'm a Junior Research Scientist (full-time) and a recent graduate from NYU with a focus in computer vision and reinforcement learning. <br>
+    - I’m a CS PhD student at the University of Virginia, working on <strong>machine learning for healthcare applications</strong>. <br>
     <br>
-    - Previously, I conducted research at robotics & reinforcement learning with PAL Robotics systems using omnidirectional mobility and LiDAR perception to train mobile manipulators for precise object manipulation at <a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html" target="_blank"> Center of AI and Robotics (CAIR) </a> <br>
+    - Previously, I worked as a <strong>Junior Research Scientist at NYU</strong>, conducting research in computer vision, reinforcement learning and graph machine learning. I graduated from <strong>NYU Abu Dhabi in 2025</strong>, with a focus on computer vision and reinforcement learning. <br>
     <br>
-    - I also developed computer vision solutions with deep residual networks for soiling quantification using novel CNN and Transformer architectures. <br>
+    - At the <a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html" target="_blank">Center for Artificial Intelligence and Robotics (CAIR)</a>, I worked on reinforcement learning for mobile manipulation using PAL Robotics systems, omnidirectional mobility and LiDAR perception. <br>
     <br>
-    - Research Interests: Computer vision, reinforcement learning and multi-modal learning. <br>
+    - I also developed computer vision methods for soiling quantification using deep residual networks, CNNs and Transformers, and led the web development project for <a href="https://janetnjelesani.com/" target="_blank">Dr. Janet Njelesani</a> at NYU. <br>
     <br>
-    - I led web development project for <a href="https://janetnjelesani.com/" target="_blank">Dr. Janet Njelesani</a> at NYU. <br>
-    - I am on a lookup for research opportunities in machine learning, vision and embodied AI. <br>
+    - <strong>Research interests:</strong> Computer Vision, Reinforcement Learning, Graph ML, Multimodal Learning and Quantum Computing. <br>
+    <br>
+    - I’m interested in turning advances in ML into tools that improve healthcare and welcome opportunities for research collaboration. <br>
   </ul>
 </div>
 
