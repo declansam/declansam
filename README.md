@@ -98,6 +98,15 @@
 
 
 
+<!-- Contribution snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/declansam/declansam/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/declansam/declansam/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/declansam/declansam/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <!-- Stats -->
 <div style="text-align: center;" align = "center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=declansam&show_icons=true&locale=en&layout=compact" alt="declansam" /></p>
